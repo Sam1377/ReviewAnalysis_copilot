@@ -143,7 +143,7 @@ npm run dev:full
 
 ## 👤 Author
 
-Built by **[Your Name]** — [LinkedIn](#) · [Portfolio](#) · [Email](#)
+Built by **Sahil Ballewar** — [LinkedIn](https://www.linkedin.com/in/sahil-ballewar-a888a632a/) · [Portfolio](https://sahil-portfolio-topaz.vercel.app) · [Email](sahil.magfirm@gmail.com)
 
 If you're a recruiter or product manager reviewing this project: happy to walk through the architecture decisions, tradeoffs, and design rationale behind the hybrid classification pipeline in more depth.
 
