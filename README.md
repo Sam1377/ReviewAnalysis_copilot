@@ -149,6 +149,3 @@ If you're a recruiter or product manager reviewing this project: happy to walk t
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
