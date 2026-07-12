@@ -1,4 +1,5 @@
-# 📊 Review Intelligence Dashboard
+
+# Review Intelligence Dashboard
 
 **An AI-powered analytics platform that turns raw, messy customer review data into structured, actionable product insights — without the cost of running every single review through an LLM.**
 
